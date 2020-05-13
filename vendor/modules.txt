@@ -1,0 +1,15 @@
+# github.com/adrianmo/go-nmea v1.2.0
+## explicit
+github.com/adrianmo/go-nmea
+# github.com/creack/goselect v0.1.1
+## explicit
+github.com/creack/goselect
+# go.bug.st/serial.v1 v0.0.0-20191202182710-24a6610f0541
+## explicit
+go.bug.st/serial.v1
+go.bug.st/serial.v1/unixutils
+# golang.org/x/sys v0.0.0-20200513112337-417ce2331b5c
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
