@@ -4,6 +4,9 @@ github.com/adrianmo/go-nmea
 # github.com/creack/goselect v0.1.1
 ## explicit
 github.com/creack/goselect
+# github.com/spf13/pflag v1.0.5
+## explicit
+github.com/spf13/pflag
 # go.bug.st/serial.v1 v0.0.0-20191202182710-24a6610f0541
 ## explicit
 go.bug.st/serial.v1
