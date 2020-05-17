@@ -17,7 +17,7 @@ var timeOut time.Duration
 
 func init() {
 	flag.IntVarP(&baudrate, "baudrate", "b", 115200, "baud rate")
-	flag.DurationVarP(&timeOut, "timeout", "t", 5s*time.Second, "max time in seconds to read data from serial port")
+	flag.DurationVarP(&timeOut, "timeout", "t", 5*time.Second, "max time in seconds to read data from serial port")
 }
 
 func readPort(ttyport string, timeout time.Duration) string {
